@@ -1,3 +1,4 @@
 .idea\
 target\
-example.project2\
+example.project2\test\
+archetype\
